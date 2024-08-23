@@ -1,5 +1,7 @@
 ### Employee-Attrition-Analysis
 
+Live Dashboard: https://app.powerbi.com/reportEmbed?reportId=77a326ec-ef10-4f7a-b608-ac339e3d0681&autoAuth=true&ctid=f32b2380-e473-4691-8ba9-71915e0a20cd
+
 Domain: Human Resource.
 
 Problem Statement: XYZ company which was established a few years back is facing around a 15% attrition rate for
