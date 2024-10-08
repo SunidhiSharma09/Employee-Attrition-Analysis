@@ -1,6 +1,6 @@
 ### Employee-Attrition-Analysis
 
-Live Dashboard: https://app.powerbi.com/reportEmbed?reportId=77a326ec-ef10-4f7a-b608-ac339e3d0681&autoAuth=true&ctid=f32b2380-e473-4691-8ba9-71915e0a20cd
+Live Dashboard: [https://app.powerbi.com/reportEmbed?reportId=77a326ec-ef10-4f7a-b608-ac339e3d0681&autoAuth=true&ctid=f32b2380-e473-4691-8ba9-71915e0a20cd](https://app.powerbi.com/view?r=eyJrIjoiYmY0MzkxMzktODAzNC00NDg1LTg2NjgtMWNkMjU2MzZiNjFiIiwidCI6ImYzMmIyMzgwLWU0NzMtNDY5MS04YmE5LTcxOTE1ZTBhMjBjZCJ9&pageName=1b3a2e92888cec8c756e)
 
 Domain: Human Resource.
 
